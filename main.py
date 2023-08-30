@@ -124,7 +124,7 @@ for song in songs:
 
         if len(search.results) > 0:
             for result in search.results:
-                if song.song_length + 15 >= result.length >= song.song_length - 5:
+                if song.song_length + 15 >= result.length >= song.song_length - 15:
                     yt = result
                     break
 
