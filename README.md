@@ -6,7 +6,7 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
   - [Disclaimer](#disclaimer)
-- [Português (Portuguese)](#português-portuguese)
+- [Português](#português)
   - [Pré-requisitos](#pré-requisitos)
   - [Uso](#uso)
   - [Aviso Legal](#aviso-legal)
@@ -56,7 +56,7 @@ Downloading videos from YouTube may be subject to legal restrictions in your cou
 
 Use this script responsibly and only for personal use or when you have the right to download and use the videos.
 
-## Português (Portuguese)
+## Português
 
 Este script em Python foi projetado para ajudar a baixar vídeos para as músicas do Clone Hero. O Clone Hero é um jogo de ritmo que permite tocar músicas personalizadas e, às vezes, essas músicas não vêm com vídeos. Este script tem como objetivo automatizar o processo de encontrar e baixar vídeos para essas músicas no YouTube.
 
