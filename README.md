@@ -84,18 +84,6 @@ Para usar este script, siga estas etapas:
 
    Este comando procurará músicas na pasta especificada do Clone Hero e tentará baixar vídeos para elas.
 
-### Explicação do Código
-
-O script começa determinando o sistema operacional e configurando a variável `sourceFolder` de acordo. Ele também lida com argumentos de linha de comando para personalizar o comportamento do script.
-
-A funcionalidade principal do script é buscar arquivos `song.ini` na pasta do Clone Hero e, para cada música encontrada, tentar encontrar um vídeo correspondente no YouTube e baixá-lo. Ele cria objetos da classe `Songs` para armazenar informações sobre as músicas.
-
-Se a opção `--replace` não for usada, o script filtra a lista para mostrar apenas músicas sem vídeos.
-
-Após baixar vídeos para as músicas selecionadas, o script fornece feedback sobre o número de músicas encontradas e seu status de download.
-
-Observe que este script depende de bibliotecas externas, portanto, certifique-se de instalar o `pytube` antes de usá-lo.
-
 ### Aviso Legal
 
 Baixar vídeos do YouTube pode estar sujeito a restrições legais em seu país. Certifique-se de ter as permissões necessárias e cumpra os termos de serviço e políticas de direitos autorais do YouTube ao usar este script.
