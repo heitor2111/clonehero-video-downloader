@@ -1,5 +1,16 @@
 # Clone Hero Song Video Downloader
 
+## Summary
+
+- [English](#english)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Disclaimer](#disclaimer)
+- [Português (Portuguese)](#português-portuguese)
+  - [Pré-requisitos](#pré-requisitos)
+  - [Uso](#uso)
+  - [Aviso Legal](#aviso-legal)
+
 ## English
 
 This Python script is designed to help you download videos for Clone Hero songs. Clone Hero is a rhythm game that allows you to play custom songs, and sometimes these songs come without videos. This script aims to automate the process of finding and downloading videos for these songs from YouTube.
@@ -45,7 +56,7 @@ Downloading videos from YouTube may be subject to legal restrictions in your cou
 
 Use this script responsibly and only for personal use or when you have the right to download and use the videos.
 
-## Português
+## Português (Portuguese)
 
 Este script em Python foi projetado para ajudar a baixar vídeos para as músicas do Clone Hero. O Clone Hero é um jogo de ritmo que permite tocar músicas personalizadas e, às vezes, essas músicas não vêm com vídeos. Este script tem como objetivo automatizar o processo de encontrar e baixar vídeos para essas músicas no YouTube.
 
@@ -56,7 +67,7 @@ Antes de usar este script, certifique-se de que você tem o seguinte instalado:
 - Python
 - [pytube](https://python-pytube.readthedocs.io/en/latest/)
 
-Você pode instalar o `pytube` usando o pip:
+Você pode instalar o `pytube` usando pip:
 
 ```bash
 pip install pytube
