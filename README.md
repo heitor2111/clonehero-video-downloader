@@ -1,3 +1,5 @@
+<p style="color:red">This project will no longer receive updates and may not work. It will be rebuilt from scratch with an interface, stay tuned!</p>
+
 # Clone Hero Song Video Downloader
 
 ## Summary
