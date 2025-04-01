@@ -1,4 +1,5 @@
 ![status: deprecated](https://img.shields.io/badge/status-deprecated-red)
+
 ⚠️ **Este projeto está obsoleto e não receberá nenhum suporte ou atualização!** ⚠️  
 Recomendamos usar [Geomitron/Bridge](https://github.com/Geomitron/Bridge) em vez deste.
 
