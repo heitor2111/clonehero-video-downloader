@@ -1,3 +1,10 @@
+![status: deprecated](https://img.shields.io/badge/status-deprecated-red)
+⚠️ **Este projeto está obsoleto e não receberá nenhum suporte ou atualização!** ⚠️  
+Recomendamos usar [Geomitron/Bridge](https://github.com/Geomitron/Bridge) em vez deste.
+
+
+
+
 <p style="color:red">This project will no longer receive updates and may not work. It will be rebuilt from scratch with an interface, stay tuned!</p>
 
 # Clone Hero Song Video Downloader
